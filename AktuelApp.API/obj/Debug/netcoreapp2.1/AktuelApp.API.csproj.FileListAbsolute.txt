@@ -1,0 +1,28 @@
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.deps.json
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.runtimeconfig.json
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.runtimeconfig.dev.json
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.dll
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.pdb
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.csprojAssemblyReference.cache
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorAssemblyInfo.cache
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorAssemblyInfo.cs
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.AssemblyInfoInputs.cache
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.AssemblyInfo.cs
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.dll
+C:\Users\Toprak\Desktop\dot net api\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.pdb
+C:\Demo\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.deps.json
+C:\Demo\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.runtimeconfig.json
+C:\Demo\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.runtimeconfig.dev.json
+C:\Demo\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.dll
+C:\Demo\AktuelApp.API\bin\Debug\netcoreapp2.1\AktuelApp.API.pdb
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.csprojAssemblyReference.cache
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.csproj.CoreCompileInputs.cache
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorAssemblyInfo.cache
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorAssemblyInfo.cs
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.AssemblyInfoInputs.cache
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.AssemblyInfo.cs
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.RazorTargetAssemblyInfo.cache
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.dll
+C:\Demo\AktuelApp.API\obj\Debug\netcoreapp2.1\AktuelApp.API.pdb
